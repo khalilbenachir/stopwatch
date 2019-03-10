@@ -1,0 +1,3 @@
+rootProject.name = 'stoPwatch1'
+
+include ':app'
